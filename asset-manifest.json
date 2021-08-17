@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nest-jwt-module/static/css/main.c991833f.chunk.css",
+    "main.js": "/nest-jwt-module/static/js/main.97e7467f.chunk.js",
+    "main.js.map": "/nest-jwt-module/static/js/main.97e7467f.chunk.js.map",
+    "runtime-main.js": "/nest-jwt-module/static/js/runtime-main.655d1b6d.js",
+    "runtime-main.js.map": "/nest-jwt-module/static/js/runtime-main.655d1b6d.js.map",
+    "static/css/2.818011ed.chunk.css": "/nest-jwt-module/static/css/2.818011ed.chunk.css",
+    "static/js/2.e4dcfeb2.chunk.js": "/nest-jwt-module/static/js/2.e4dcfeb2.chunk.js",
+    "static/js/2.e4dcfeb2.chunk.js.map": "/nest-jwt-module/static/js/2.e4dcfeb2.chunk.js.map",
+    "index.html": "/nest-jwt-module/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/nest-jwt-module/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c991833f.chunk.css.map": "/nest-jwt-module/static/css/main.c991833f.chunk.css.map",
+    "static/js/2.e4dcfeb2.chunk.js.LICENSE.txt": "/nest-jwt-module/static/js/2.e4dcfeb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655d1b6d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e4dcfeb2.chunk.js",
+    "static/css/main.c991833f.chunk.css",
+    "static/js/main.97e7467f.chunk.js"
+  ]
+}
