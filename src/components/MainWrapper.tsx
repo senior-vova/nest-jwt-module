@@ -8,8 +8,8 @@ type Props = {
 
 export const MainWrapper: React.FC<Props> = (props: Props) => {
   return (
-    <div className="bg-dark text-light">
-      <Container className="vh-100">
+    <div className="bg-dark text-light pb-5">
+      <Container>
         <Header />
         {props.children}
       </Container>
