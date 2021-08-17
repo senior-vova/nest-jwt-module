@@ -1,26 +1,25 @@
-<p align="center">
-  <a href="https://senior-vova.github.io/nest-mongo-auth" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
+# Getting Started with Create React App
 
-## Description
+This project is typescript react blank app. In this project already connected redux, router, redux-form, redux-thunk, react-bootstrap, sass. Deleted  web-vitals, tests, jest and etc.
 
-[Nest-JWT-Module](https://github.com/senior-vova/nest-jwt-module) Nest library for easy using JWT auth.
+## Available Scripts
 
-## Installation
+In the project directory, you can run:
 
-```bash
-$ npm install nest-jwt-module
-```
+### `npm start`
 
-## Documentation
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-[Read docs here](https://senior-vova.github.io/nest-jwt-module).
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## Stay in touch
+### `npm run build`
 
-- Author - [Senior Vova](https://github.com/senior-vova)
-- Website - [https://nest-jwt-module.com](https://senior-vova.github.io/nest-jwt-module)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## License
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Nest-JWT-Module is [MIT licensed](LICENSE).
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
