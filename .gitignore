@@ -4,6 +4,7 @@
 /node_modules
 tsconfig*
 
+yarn.lock
 # Logs
 logs
 *.log

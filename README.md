@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://senior-vova.github.io/nest-mongo-auth" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="https://senior-vova.github.io/nest-jwt-module" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
 ## Description
