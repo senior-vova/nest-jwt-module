@@ -10,7 +10,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.JWTModule = void 0;
 const common_1 = require("@nestjs/common");
 const constants_1 = require("../constants");
-const interfaces_1 = require("../interfaces");
 const jwt_service_1 = require("./jwt.service");
 let JWTModule = JWTModule_1 = class JWTModule {
     static forRoot(options) {

@@ -16,7 +16,6 @@ exports.JWTService = void 0;
 const common_1 = require("@nestjs/common");
 const jsonwebtoken = require("jsonwebtoken");
 const constants_1 = require("../constants");
-const interfaces_1 = require("../interfaces");
 let JWTService = class JWTService {
     constructor(options) {
         this.secretKey = options.secretKey;

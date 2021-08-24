@@ -1,4 +1,4 @@
-import { JWTModuleSetupOptions } from "src/interfaces";
+import { JWTModuleSetupOptions } from "../interfaces";
 export declare class JWTService {
     private secretKey;
     private expiresIn;
