@@ -4,17 +4,16 @@ type Props = {
   link: string;
 };
 
-export const HashLink: React.FC<Props> = ({ link }) => (
-  <h3 className="my-3">
-    <a
-      href={`#home/${
-        link.includes(" ")
-          ? link.replaceAll(" ", "-").toLowerCase()
-          : link.toLowerCase()
-      }`}
-    >
-      #
-    </a>{" "}
-    {link}
-  </h3>
-);
+export const HashLink: React.FC<Props> = ({ link }) => {
+  const a = `home/${
+    link.includes(" ")
+      ? link.replaceAll(" ", "-").toLowerCase()
+      : link.toLowerCase()
+  }`;
+  return (
+    <h3 className="my-3">
+      <a id={a}></a>
+      <a href={`#${a}`}>#</a> {link}
+    </h3>
+  );
+};
