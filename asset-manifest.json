@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nest-jwt-module/static/css/main.c991833f.chunk.css",
-    "main.js": "/nest-jwt-module/static/js/main.97e7467f.chunk.js",
-    "main.js.map": "/nest-jwt-module/static/js/main.97e7467f.chunk.js.map",
+    "main.js": "/nest-jwt-module/static/js/main.6581dace.chunk.js",
+    "main.js.map": "/nest-jwt-module/static/js/main.6581dace.chunk.js.map",
     "runtime-main.js": "/nest-jwt-module/static/js/runtime-main.655d1b6d.js",
     "runtime-main.js.map": "/nest-jwt-module/static/js/runtime-main.655d1b6d.js.map",
     "static/css/2.818011ed.chunk.css": "/nest-jwt-module/static/css/2.818011ed.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.e4dcfeb2.chunk.js",
     "static/css/main.c991833f.chunk.css",
-    "static/js/main.97e7467f.chunk.js"
+    "static/js/main.6581dace.chunk.js"
   ]
 }
